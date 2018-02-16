@@ -10,5 +10,6 @@ return names
 
 
 function tailsNeverFails(){
+  let tailsCount = 0;
   while(Math.random() >= 0.5){};
 };
