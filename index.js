@@ -1,2 +1,2 @@
-printBadges()
-tailsNeverFails()
+function printBadges()
+function tailsNeverFails();
