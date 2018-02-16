@@ -13,6 +13,7 @@ function tailsNeverFails(){
   let tailsCount = 0;
   while(Math.random() >= 0.5){
     tailsCount ++;
+    console.log ("tails")
   };
   return tailsCount;
 };
