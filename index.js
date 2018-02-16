@@ -10,5 +10,5 @@ return names
 
 
 function tailsNeverFails(){
-
+  while(){};
 };
